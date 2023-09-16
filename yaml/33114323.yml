@@ -1,0 +1,31 @@
+---
+id: 33114323
+name: Metalsilver Armor
+type: Spell Card
+frameType: spell
+desc: As long as you control the monster equipped with this card, your opponent cannot
+  use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except
+  the equipped monster.
+race: Equip
+card_sets:
+- set_name: Dark Revelation Volume 1
+  set_code: DR1-EN092
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '5.85'
+- set_name: Magician's Force
+  set_code: MFC-037
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '3.89'
+card_images:
+- id: 33114323
+  image_url: https://images.ygoprodeck.com/images/cards/33114323.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/33114323.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/33114323.jpg
+card_prices:
+- cardmarket_price: '7.35'
+  tcgplayer_price: '4.04'
+  ebay_price: '1.49'
+  amazon_price: '4.49'
+  coolstuffinc_price: '1.99'
